@@ -4,7 +4,9 @@
 This is my interactive Halloween project made in Processing (Java). It is a spooky experience that uses a microphone to catch your voice and changes it in real time. 
 
 When it is quiet, you just see a dark silhouette and falling rain. But if you talk into the mic, your voice gets distorted like a monster, lightning flashes, and the monster steps out of the dark!
+The project consists of two interconnected stages: in the first part, you tested individual core mechanics (conditionals, loops, classes, and sound), while in the second, you combined them into a single interactive scene.
 
+## Part One: Core Concepts
 ## Technical requirements included
 I made sure to use all the required tools for this assignment:
 * **Variables & IF statements:** To check the microphone volume and trigger lightning.
